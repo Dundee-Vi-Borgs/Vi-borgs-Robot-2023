@@ -7,3 +7,9 @@ Members:
 	Nicholas William Horkey: Sophmore
 
 Controls
+Driver Controls:
+	Axes:
+	Left Joystick Up/Down (1): Drive Forward/Backward
+	Right Joystick Left/Right (4): Turn Left/Right
+
+	Booleans:
