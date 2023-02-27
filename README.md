@@ -3,7 +3,7 @@ The robot code for the 2023 FRC season, Charged Up.
 
 Members:
 	Michael Garrett Maciejewski: Senior
-	
+	Timothy James Angerer: Junior
 	Nicholas William Horkey: Sophmore
 
 Controls
