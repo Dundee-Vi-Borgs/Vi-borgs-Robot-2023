@@ -13,3 +13,12 @@ Driver Controls:
 	Right Joystick Left/Right (4): Turn Left/Right
 
 	Booleans:
+
+Co-Driver Controls:
+	Axes:
+	Right Joystick Left/Right (4): Clamp/Un-Clamp
+	Left Trigger (2): Flip Up 
+	Right Trigger (3): Flip Down
+	
+	Booleans:
+
