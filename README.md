@@ -13,3 +13,4 @@ Driver Controls:
 	Right Joystick Left/Right (4): Turn Left/Right
 
 	Booleans:
+	Right Bumper (5): Drive/Turn Speed
